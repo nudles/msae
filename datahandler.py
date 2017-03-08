@@ -1,8 +1,12 @@
+'''code is adpated from https://github.com/nitishsrivastava/deepnet'''
+
 import os
 import sys
 import numpy as np
 import gnumpy as gp
 import scipy.sparse as sp
+
+
 
 
 def getBytes(mem_str):
